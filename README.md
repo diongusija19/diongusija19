@@ -1,5 +1,6 @@
                              ## Hi there 👋
 
+![programming1](https://github.com/user-attachments/assets/1127a18e-9f87-4e4a-9f44-646ec7499d65)
 
 <p>
 
