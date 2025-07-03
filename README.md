@@ -1,4 +1,4 @@
-## Hi there 👋
+                             ## Hi there 👋
 
 
 <p>
@@ -7,7 +7,7 @@
 </p>
 
 
-# 👋 Hello, I'm Joni (aka diongusija19)!
+#                     👋 Hello, I'm Joni (aka diongusija19)!
 
 Welcome to my GitHub profile! I’m passionate about building sleek web apps, learning new technologies, and contributing to open source projects that make life easier.
 
